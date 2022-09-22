@@ -1,0 +1,22 @@
+* {
+  font-family: 'Inter', sans-serif;
+  color: black;
+}
+
+
+body{
+  min-width: 1224px;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #b5c5ea;;
+}
+
+
+
+
+
+.forca{
+  background-color: #2a427a;
+}
